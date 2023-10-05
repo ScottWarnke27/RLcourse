@@ -86,11 +86,11 @@ def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-3):
 
         #for each state in the environment, select the action according to the policy and compute the value function
         for state in range(env.nS):
-            nA = policy[nS]
+            A = policy[state]
 
             #build the value table with the selected action
             value_function[nS] = sum([probability * (reward + gamma * updated_value_function[nextstate])
-                                        for probability, nextstate, reward, _ in env.P[nS][nA]])
+                                        for probability, nextstate, reward, _ in env.P[state][A]])
             
         if (np.sum((np.fabs(updated_value_function - value_function))) <= tol):
             break
@@ -126,6 +126,11 @@ def policy_improvement(P, nS, nA, value_from_policy, policy, gamma=0.9):
     ############################
     # YOUR IMPLEMENTATION HERE #
 
+    #policy improvement goes here
+
+    #for s in s
+    #    for a in A
+    
     ############################
     return new_policy
 
@@ -242,8 +247,8 @@ if __name__ == "__main__":
     V_pi, p_pi = policy_iteration(env.P, env.nS, env.nA, gamma=0.9, tol=1e-3)
     render_single(env, p_pi, 100)
 
-    print("\n" + "-" * 25 + "\nBeginning Value Iteration\n" + "-" * 25)
+    # print("\n" + "-" * 25 + "\nBeginning Value Iteration\n" + "-" * 25)
 
-    V_vi, p_vi = value_iteration(env.P, env.nS, env.nA, gamma=0.9, tol=1e-3)
-    render_single(env, p_vi, 100)
+    # V_vi, p_vi = value_iteration(env.P, env.nS, env.nA, gamma=0.9, tol=1e-3)
+    # render_single(env, p_vi, 100)
 
