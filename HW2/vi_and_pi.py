@@ -78,6 +78,24 @@ def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-3):
 
     ############################
     # YOUR IMPLEMENTATION HERE #
+    
+    while True:
+
+        #copy the value table to the updated_value_table
+        updated_value_function = np.copy(value_function)
+
+        #for each state in the environment, select the action according to the policy and compute the value function
+        for state in range(env.nS):
+            nA = policy[nS]
+
+            #build the value table with the selected action
+            value_function[nS] = sum([probability * (reward + gamma * updated_value_function[nextstate])
+                                        for probability, nextstate, reward, _ in env.P[nS][nA]])
+            
+        if (np.sum((np.fabs(updated_value_function - value_function))) <= tol):
+            break
+
+    #return value_function
 
     ############################
     return value_function
@@ -135,6 +153,10 @@ def policy_iteration(P, nS, nA, gamma=0.9, tol=1e-3):
 
     ############################
     # YOUR IMPLEMENTATION HERE #
+
+
+        
+
 
     ############################
     return value_function, policy
