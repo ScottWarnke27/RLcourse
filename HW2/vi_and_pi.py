@@ -80,22 +80,29 @@ def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-3):
     # YOUR IMPLEMENTATION HERE #
     
     while True:
-
-        #copy the value table to the updated_value_table
-        updated_value_function = np.copy(value_function)
-
+   
+        delta = 0
+   
         #for each state in the environment, select the action according to the policy and compute the value function
-        for state in range(env.nS):
-            A = policy[state]
-
-            #build the value table with the selected action
-            value_function[nS] = sum([probability * (reward + gamma * updated_value_function[nextstate])
-                                        for probability, nextstate, reward, _ in env.P[state][A]])
+        for state in range(nS):
             
-        if (np.sum((np.fabs(updated_value_function - value_function))) <= tol):
-            break
+   
+            A = policy[state]
+            v = value_function[state]
 
-    #return value_function
+            #build the value function with the selected action
+   
+            dummyvalue=0
+            for probability, nextstate, reward, _ in P[state][A]:
+                
+                dummyvalue +=  probability * (reward + gamma * value_function[nextstate])
+
+            value_function[state]=dummyvalue
+            delta = max(delta,np.abs(v - value_function[state]))   #purley greedy
+        if delta < tol:
+            break     
+   
+    
 
     ############################
     return value_function
@@ -126,10 +133,20 @@ def policy_improvement(P, nS, nA, value_from_policy, policy, gamma=0.9):
     ############################
     # YOUR IMPLEMENTATION HERE #
 
-    #policy improvement goes here
+        #for each state in the environment, select the action according to the policy and compute the value function
+    for state in range(nS):
 
-    #for s in s
-    #    for a in A
+   
+        A = policy[state]  #old action
+        
+        maxpotentialfuture = np.zeros(4)
+        for action in range(nA):
+           
+            for probability, nextstate, reward, _ in P[state][action]:
+                maxpotentialfuture[action] +=  probability * (reward + gamma * value_from_policy[nextstate])  
+   
+        new_policy[state]= np.argmax(maxpotentialfuture)
+    
     
     ############################
     return new_policy
@@ -153,12 +170,35 @@ def policy_iteration(P, nS, nA, gamma=0.9, tol=1e-3):
 	policy: np.ndarray[nS]
 	"""
 
-    value_function = np.zeros(nS)
+    value_function = np.random.uniform(nS)
     policy = np.zeros(nS, dtype=int)
 
     ############################
     # YOUR IMPLEMENTATION HERE #
 
+    while True:
+   
+        old_policy = policy
+   
+        # compute the value function
+        value_function = policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-3)
+        
+        # Extract new policy from the computed value function
+        policy = policy_improvement(P, nS, nA, value_function, policy, gamma=0.9)
+   
+   
+        if (old_policy== policy).all():
+            print('POLICY ITERATION')
+            print('optimal policy')
+            print(np.array(policy).reshape(4,4))
+            print(' ')
+            print('optimal value function')
+            print(np.array(value_function).reshape(4,4))
+
+            break
+        #value_function = policy
+        
+    #return policy
 
         
 
@@ -189,8 +229,36 @@ def value_iteration(P, nS, nA, gamma=0.9, tol=1e-3):
     policy = np.zeros(nS, dtype=int)
     ############################
     # YOUR IMPLEMENTATION HERE #
+    while True:
+      
+        delta = 0
+
+        for state in range(nS):
+            v= value_function[state]
+            maxpotentialfuture = np.zeros(4)
+            for action in range(nA):
+            
+                for probability, nextstate, reward, _ in P[state][action]:
+                    maxpotentialfuture[action] +=  probability * (reward + gamma * value_function[nextstate])  
+            
+            value_function[state]=max(maxpotentialfuture)  #this is the maximum value function
+            policy[state]= np.argmax(maxpotentialfuture)   #this policy is a result of the max value function
+         
+            delta = max(delta,np.abs(v - value_function[state]))   #purley greedy
+
+
+        if delta < tol:
+            break         
+ 
+    print('VALUE ITERATION')        
+    print('optimal policy')
+    print(np.array(policy).reshape(4,4))
+    print(' ')
+    print('optimal value function')
+    print(np.array(value_function).reshape(4,4))
 
     ############################
+    
     return value_function, policy
 
 
@@ -247,8 +315,8 @@ if __name__ == "__main__":
     V_pi, p_pi = policy_iteration(env.P, env.nS, env.nA, gamma=0.9, tol=1e-3)
     render_single(env, p_pi, 100)
 
-    # print("\n" + "-" * 25 + "\nBeginning Value Iteration\n" + "-" * 25)
+    print("\n" + "-" * 25 + "\nBeginning Value Iteration\n" + "-" * 25)
 
-    # V_vi, p_vi = value_iteration(env.P, env.nS, env.nA, gamma=0.9, tol=1e-3)
-    # render_single(env, p_vi, 100)
+    V_vi, p_vi = value_iteration(env.P, env.nS, env.nA, gamma=0.9, tol=1e-3)
+    render_single(env, p_vi, 100)
 
