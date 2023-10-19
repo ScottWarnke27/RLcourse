@@ -94,7 +94,7 @@ class Simple21(gym.Env):
             while sum_hand(self.dealer) < 17:
                 self.dealer.append(draw_nextcard(self.np_random))
                 #print('dealer drawing a card')
-            reward = cmp(score(self.player), score(self.dealer))
+                reward = cmp(score(self.player), score(self.dealer))
             #print('I am stuck here')
             #if self.natural and is_natural(self.player) and reward == 1:
             #    reward = 1.5
