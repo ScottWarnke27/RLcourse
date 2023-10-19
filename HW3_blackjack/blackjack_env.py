@@ -10,9 +10,9 @@ def cmp(a, b):
 #deck = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 deck_firstcard = [2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-deck_nextcard = [2, 3, 4, 5, 6, 7, 8, 9, 10,
-                   -2,-3,-4,-5,-6,-7,-8,-9,-10,
-                   -2,-3,-4,-5,-6,-7,-8,-9,-10]
+deck_nextcard = [2, 3, 4, 5, 6, 7, 8, 9, 10,   #2/3 black cards (positive)
+                 2, 3, 4, 5, 6, 7, 8, 9, 10,
+                -2,-3,-4,-5,-6,-7,-8,-9,-10]   #1/3 red cards (negative)
 
 def draw_firstcard(np_random):
     return np_random.choice(deck_firstcard)
