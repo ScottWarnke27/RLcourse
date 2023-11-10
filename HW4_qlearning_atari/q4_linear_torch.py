@@ -9,6 +9,9 @@ from q3_schedule import LinearExploration, LinearSchedule
 from configs.q4_linear import config
 import logging
 
+import torch.optim as optim
+
+import numpy as np
 
 class Linear(DQN):
     """
@@ -35,7 +38,12 @@ class Linear(DQN):
 
         ##############################################################
         ################ YOUR CODE HERE (3-4 lines) ##################
+        
+        input_size = img_height * img_width * n_channels * config.state_history  #figure out the size of the input
 
+        self.q_network = nn.Linear(input_size, num_actions)  #linear layer with an output of num_actions
+
+        self.target_network = nn.Linear(input_size, num_actions)  #configure the target network to be the same as the q network
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -60,8 +68,12 @@ class Linear(DQN):
         out = None
 
         ##############################################################
-        ################ YOUR CODE HERE - 3-5 lines ##################
+        ################ YOUR CODE HERE - 3-5 lines ##################      
+        selected_network = self.q_network if network == "q_network" else self.target_network
 
+        flattened_state = state.view(state.size(0), -1)  #I think using state.view flatten's the input state
+
+        out = selected_network(flattened_state)  #this should forward the tensor through the network
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -84,6 +96,7 @@ class Linear(DQN):
 
         ##############################################################
         ################### YOUR CODE HERE - 1-2 lines ###############
+        self.target_network.load_state_dict(self.q_network.state_dict())
 
         ##############################################################
         ######################## END YOUR CODE #######################
@@ -130,6 +143,15 @@ class Linear(DQN):
         ##############################################################
         ##################### YOUR CODE HERE - 3-5 lines #############
 
+        q_samp = rewards + gamma * torch.max(target_q_values, dim=1)[0] * (1.0 - done_mask.float())  #calculate the  q samples
+
+        actions_one_hot = F.one_hot(actions.long(), num_actions)  # encode the actions
+
+        q_sa = torch.sum(q_values * actions_one_hot, dim=1)  # Calculate Q(s, a) 
+
+        loss = F.mse_loss(q_sa, q_samp) #calculate the loss
+
+        return loss
         ##############################################################
         ######################## END YOUR CODE #######################
 
@@ -146,9 +168,10 @@ class Linear(DQN):
         """
         ##############################################################
         #################### YOUR CODE HERE - 1 line #############
-
+        self.optimizer = optim.Adam(self.q_network.parameters())
         ##############################################################
         ######################## END YOUR CODE #######################
+
 
 
 if __name__ == "__main__":

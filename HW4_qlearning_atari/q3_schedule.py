@@ -33,7 +33,11 @@ class LinearSchedule(object):
         """
         ##############################################################
         ################ YOUR CODE HERE - 3-6 lines ##################
-
+        # if t < self.nsteps:
+        #     self.epsilon -= (self.eps_begin - self.eps_end) / self.nsteps * t
+        # else:
+        #     self.epsilon = self.eps_end     #this does not improve training...I need to change the learning rate
+        self.epsilon = np.maximum(self.eps_end, self.eps_begin - (self.eps_begin-self.eps_end)*t /self.nsteps)
         ##############################################################
         ######################## END YOUR CODE ############## ########
 
@@ -77,7 +81,9 @@ class LinearExploration(LinearSchedule):
         """
         ##############################################################
         ################ YOUR CODE HERE - 4-5 lines ##################
-
+        if np.random.rand() < self.epsilon:
+            return random.randrange(self.env.num_actions())
+        return best_action
         ##############################################################
         ######################## END YOUR CODE #######################
 

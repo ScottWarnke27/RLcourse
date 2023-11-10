@@ -48,6 +48,38 @@ class NatureQN(Linear):
 
         ##############################################################
         ################ YOUR CODE HERE - 20-30 lines ################
+        # Define Q network
+        self.q_network = nn.Sequential(
+            nn.Conv2d(in_channels=n_channels * self.config.state_history, out_channels=32, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=32, out_channels=64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=64, out_channels=64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Flatten(),
+            nn.Linear(64 * img_height * img_width, 512),
+            nn.ReLU(),
+            nn.Linear(512, num_actions)
+        )
+
+        # Define target network
+        self.target_network = nn.Sequential(
+            nn.Conv2d(in_channels=n_channels * self.config.state_history, out_channels=32, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=32, out_channels=64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=64, out_channels=64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Flatten(),
+            nn.Linear(64 * img_height * img_width, 512),
+            nn.ReLU(),
+            nn.Linear(512, num_actions)
+        )
+
+        # Initialize target network with the same weights as the Q network
+        self.target_network.load_state_dict(self.q_network.state_dict())
+        self.target_network.eval()  # Set the target network to evaluation mode
+
 
         ##############################################################
         ######################## END YOUR CODE #######################
@@ -71,13 +103,43 @@ class NatureQN(Linear):
         """
         out = None
 
+
+ 
+
         ##############################################################
         ################ YOUR CODE HERE - 4-5 lines lines ################
-
+        selected_network = self.q_network if network == "q_network" else self.target_network
+        out = selected_network(state.permute(0, 3, 1, 2)) 
         ##############################################################
         ######################## END YOUR CODE #######################
         return out
+    
 
+    def _get_conv_out(self, shape):
+        # Extract spatial dimensions from the shape
+        img_height, img_width, _ = shape
+
+        dummy_input = torch.randn(1, shape[-1], img_height, img_width)
+
+        conv_layers = nn.Sequential(
+            nn.Conv2d(in_channels=shape[-1], out_channels=32, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=32, out_channels=64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.Conv2d(in_channels=64, out_channels=64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU()
+        )
+
+        # Manually calculate the size of the flattened output
+        conv_output = conv_layers(dummy_input)
+
+        # Calculate the size of the flattened output
+        conv_flat_size = torch.flatten(conv_output, 1).size(1)
+
+        # Check the input size expected by the linear layer
+        linear_input_size = conv_output.view(conv_output.size(0), -1).size(1)
+
+        return conv_flat_size
 
 """
 Use deep Q network for test environment.
