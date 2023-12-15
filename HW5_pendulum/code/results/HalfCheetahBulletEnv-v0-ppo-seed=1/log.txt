@@ -1,0 +1,2 @@
+2023-12-14 18:46:50,212:INFO: [ITERATION 0]: Average reward: -1581.28 +/- 17.61
+2023-12-15 13:25:30,264:INFO: [ITERATION 0]: Average reward: -1581.28 +/- 17.61

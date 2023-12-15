@@ -22,6 +22,8 @@ class BasePolicy:
         distribution for each observation in the batch.
         """
         raise NotImplementedError
+    
+  
 
     def act(self, observations, return_log_prob = False):
         """
@@ -43,18 +45,35 @@ class BasePolicy:
         observations = np2torch(observations)
         #######################################################
         #########   YOUR CODE HERE - 1-4 lines.    ############
+        distribution = self.action_distribution(observations)
+        sampled_actions = distribution.sample()
+
+        if return_log_prob:
+            log_probs = distribution.log_prob(sampled_actions)
+            log_probs = log_probs.sum(dim=-1, keepdim=True)
+        else:
+            log_probs = None
+        
+        
+        # with torch.no_grad():
+        #     sampled_actions = self.action_distribution(observations).sample().cpu().numpy()
 
         #######################################################
         #########          END YOUR CODE.          ############
-        if return_log_prob:
-            return sampled_actions, log_probs
-        return sampled_actions
+        # if return_log_prob:
+        #     return sampled_actions, log_probs
+        # return sampled_actions
+        return sampled_actions.detach().cpu().numpy(), log_probs.detach().cpu().numpy() if return_log_prob else None
+
+
 
 
 class CategoricalPolicy(BasePolicy, nn.Module):
     def __init__(self, network):
         nn.Module.__init__(self)
         self.network = network
+        #self.is_disc_action = is_disc_action  # Assign is_disc_action
+
 
     def action_distribution(self, observations):
         """
@@ -68,7 +87,7 @@ class CategoricalPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 1-2 lines.    ############
-
+        distribution = ptd.Categorical(logits=self.network(observations))
         #######################################################
         #########          END YOUR CODE.          ############
         return distribution
@@ -86,7 +105,7 @@ class GaussianPolicy(BasePolicy, nn.Module):
         self.network = network
         #######################################################
         #########   YOUR CODE HERE - 1 line.       ############
-
+        self.log_std = nn.Parameter(data=torch.zeros(action_dim))
         #######################################################
         #########          END YOUR CODE.          ############
 
@@ -100,7 +119,7 @@ class GaussianPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 1 line.       ############
-
+        std = torch.exp(self.log_std)
         #######################################################
         #########          END YOUR CODE.          ############
         return std
@@ -124,7 +143,18 @@ class GaussianPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 2-4 lines.    ############
+        #loc = self.network(observations)
+        #distribution = torch.distributions.MultivariateNormal(loc, covariance_matrix=torch.eye(loc.shape[0], loc.shape[0]))
+        loc = self.network(observations)
+        
+        if observations.shape[0] == 1:
+            # For the pendulum environment, handle the special case of batch size 1
+            scale_tril = torch.diag_embed(torch.exp(self.log_std)).unsqueeze(0)
+        else:
+            scale_tril = torch.diag_embed(torch.exp(self.log_std))
 
+        distribution = torch.distributions.MultivariateNormal(loc, scale_tril=scale_tril)
+        
         #######################################################
         #########          END YOUR CODE.          ############
         return distribution

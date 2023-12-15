@@ -47,6 +47,30 @@ class PPO(PolicyGradient):
 
         #######################################################
         #########   YOUR CODE HERE - 10-15 lines.   ###########
+        distribution = self.policy.action_distribution(observations)
+        #log_probs = distribution.log_prob(actions.squeeze())
+        
+        # if self.policy.is_disc_action:
+        #     log_probs = distribution.log_prob(actions)
+        # else:
+        #     log_probs = distribution.log_prob(actions).sum(dim=-1, keepdim=True)
+
+        if isinstance(self.policy, CategoricalPolicy):
+            log_probs = distribution.log_prob(actions)
+        elif isinstance(self.policy, GaussianPolicy):
+            log_probs = distribution.log_prob(actions).sum(dim=-1, keepdim=True)
+        else:
+            raise ValueError("Unsupported policy type")
+
+        ratio = torch.exp(log_probs - old_logprobs)
+        clipped_ratio = torch.clamp(ratio, 1 - self.eps_clip, 1 + self.eps_clip)
+        loss = -torch.min(ratio * advantages, clipped_ratio * advantages)
+        loss = loss.mean()
+
+        self.optimizer.zero_grad()
+        loss.backward()
+        self.optimizer.step()
+
 
         #######################################################
         #########          END YOUR CODE.          ############

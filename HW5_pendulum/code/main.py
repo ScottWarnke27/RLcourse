@@ -15,6 +15,7 @@ import pdb
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--env-name", required=True, type=str, choices=["cartpole", "pendulum", "cheetah"]
+    #"--env-name", required=True, type=str, choices=["CartPole", "InvertedPendulum", "HalfCheetah"]
 )
 parser.add_argument("--baseline", dest="use_baseline", action="store_true")
 parser.add_argument("--no-baseline", dest="use_baseline", action="store_false")

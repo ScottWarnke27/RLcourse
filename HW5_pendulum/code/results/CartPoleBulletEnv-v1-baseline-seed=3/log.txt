@@ -1,0 +1,1646 @@
+2023-12-14 17:30:05,878:INFO: [ITERATION 0]: Average reward: 21.22 +/- 1.25
+2023-12-14 17:30:06,549:INFO: [ITERATION 1]: Average reward: 20.95 +/- 1.12
+2023-12-14 17:30:07,231:INFO: [ITERATION 2]: Average reward: 15.98 +/- 0.68
+2023-12-14 17:30:07,945:INFO: [ITERATION 3]: Average reward: 11.76 +/- 0.29
+2023-12-14 17:30:08,647:INFO: [ITERATION 4]: Average reward: 10.95 +/- 0.22
+2023-12-14 17:30:09,323:INFO: [ITERATION 5]: Average reward: 10.38 +/- 0.16
+2023-12-14 17:30:10,009:INFO: [ITERATION 6]: Average reward: 9.91 +/- 0.14
+2023-12-14 17:30:10,708:INFO: [ITERATION 7]: Average reward: 9.43 +/- 0.12
+2023-12-14 17:30:11,429:INFO: [ITERATION 8]: Average reward: 8.96 +/- 0.08
+2023-12-14 17:30:12,106:INFO: [ITERATION 9]: Average reward: 8.66 +/- 0.07
+2023-12-14 17:30:12,800:INFO: [ITERATION 10]: Average reward: 8.44 +/- 0.06
+2023-12-14 17:30:13,489:INFO: [ITERATION 11]: Average reward: 8.37 +/- 0.06
+2023-12-14 17:30:14,177:INFO: [ITERATION 12]: Average reward: 8.38 +/- 0.05
+2023-12-14 17:30:14,875:INFO: [ITERATION 13]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:30:15,562:INFO: [ITERATION 14]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:30:16,246:INFO: [ITERATION 15]: Average reward: 8.37 +/- 0.04
+2023-12-14 17:30:16,923:INFO: [ITERATION 16]: Average reward: 8.27 +/- 0.05
+2023-12-14 17:30:17,621:INFO: [ITERATION 17]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:30:18,309:INFO: [ITERATION 18]: Average reward: 8.43 +/- 0.05
+2023-12-14 17:30:18,997:INFO: [ITERATION 19]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:30:19,674:INFO: [ITERATION 20]: Average reward: 8.30 +/- 0.05
+2023-12-14 17:30:20,345:INFO: [ITERATION 21]: Average reward: 8.30 +/- 0.05
+2023-12-14 17:30:21,017:INFO: [ITERATION 22]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:30:21,692:INFO: [ITERATION 23]: Average reward: 8.28 +/- 0.05
+2023-12-14 17:30:22,366:INFO: [ITERATION 24]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:23,065:INFO: [ITERATION 25]: Average reward: 8.35 +/- 0.05
+2023-12-14 17:30:23,756:INFO: [ITERATION 26]: Average reward: 8.21 +/- 0.05
+2023-12-14 17:30:24,582:INFO: [ITERATION 27]: Average reward: 8.30 +/- 0.05
+2023-12-14 17:30:25,273:INFO: [ITERATION 28]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:25,949:INFO: [ITERATION 29]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:26,616:INFO: [ITERATION 30]: Average reward: 8.27 +/- 0.05
+2023-12-14 17:30:27,290:INFO: [ITERATION 31]: Average reward: 8.27 +/- 0.05
+2023-12-14 17:30:27,972:INFO: [ITERATION 32]: Average reward: 8.28 +/- 0.05
+2023-12-14 17:30:28,658:INFO: [ITERATION 33]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:29,336:INFO: [ITERATION 34]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:30,008:INFO: [ITERATION 35]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:30,684:INFO: [ITERATION 36]: Average reward: 8.27 +/- 0.05
+2023-12-14 17:30:31,372:INFO: [ITERATION 37]: Average reward: 8.33 +/- 0.05
+2023-12-14 17:30:32,045:INFO: [ITERATION 38]: Average reward: 8.16 +/- 0.05
+2023-12-14 17:30:32,734:INFO: [ITERATION 39]: Average reward: 8.36 +/- 0.04
+2023-12-14 17:30:33,412:INFO: [ITERATION 40]: Average reward: 8.22 +/- 0.05
+2023-12-14 17:30:34,085:INFO: [ITERATION 41]: Average reward: 8.37 +/- 0.05
+2023-12-14 17:30:34,809:INFO: [ITERATION 42]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:30:35,481:INFO: [ITERATION 43]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:36,157:INFO: [ITERATION 44]: Average reward: 8.25 +/- 0.05
+2023-12-14 17:30:36,836:INFO: [ITERATION 45]: Average reward: 8.21 +/- 0.05
+2023-12-14 17:30:37,531:INFO: [ITERATION 46]: Average reward: 8.36 +/- 0.05
+2023-12-14 17:30:38,215:INFO: [ITERATION 47]: Average reward: 8.33 +/- 0.05
+2023-12-14 17:30:38,897:INFO: [ITERATION 48]: Average reward: 8.33 +/- 0.05
+2023-12-14 17:30:39,586:INFO: [ITERATION 49]: Average reward: 8.28 +/- 0.05
+2023-12-14 17:30:40,274:INFO: [ITERATION 50]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:30:40,993:INFO: [ITERATION 51]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:41,673:INFO: [ITERATION 52]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:42,366:INFO: [ITERATION 53]: Average reward: 8.21 +/- 0.05
+2023-12-14 17:30:43,040:INFO: [ITERATION 54]: Average reward: 8.28 +/- 0.05
+2023-12-14 17:30:43,721:INFO: [ITERATION 55]: Average reward: 8.38 +/- 0.05
+2023-12-14 17:30:44,398:INFO: [ITERATION 56]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:45,093:INFO: [ITERATION 57]: Average reward: 8.21 +/- 0.05
+2023-12-14 17:30:45,768:INFO: [ITERATION 58]: Average reward: 8.33 +/- 0.05
+2023-12-14 17:30:46,519:INFO: [ITERATION 59]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:30:47,305:INFO: [ITERATION 60]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:48,014:INFO: [ITERATION 61]: Average reward: 8.25 +/- 0.05
+2023-12-14 17:30:48,704:INFO: [ITERATION 62]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:49,391:INFO: [ITERATION 63]: Average reward: 8.25 +/- 0.04
+2023-12-14 17:30:50,074:INFO: [ITERATION 64]: Average reward: 8.30 +/- 0.05
+2023-12-14 17:30:50,763:INFO: [ITERATION 65]: Average reward: 8.36 +/- 0.05
+2023-12-14 17:30:51,447:INFO: [ITERATION 66]: Average reward: 8.36 +/- 0.05
+2023-12-14 17:30:52,122:INFO: [ITERATION 67]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:30:52,791:INFO: [ITERATION 68]: Average reward: 8.33 +/- 0.05
+2023-12-14 17:30:53,461:INFO: [ITERATION 69]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:30:54,131:INFO: [ITERATION 70]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:30:54,802:INFO: [ITERATION 71]: Average reward: 8.35 +/- 0.05
+2023-12-14 17:30:55,501:INFO: [ITERATION 72]: Average reward: 8.31 +/- 0.05
+2023-12-14 17:30:56,187:INFO: [ITERATION 73]: Average reward: 8.25 +/- 0.05
+2023-12-14 17:30:56,871:INFO: [ITERATION 74]: Average reward: 8.39 +/- 0.05
+2023-12-14 17:30:57,552:INFO: [ITERATION 75]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:30:58,238:INFO: [ITERATION 76]: Average reward: 8.32 +/- 0.04
+2023-12-14 17:30:58,932:INFO: [ITERATION 77]: Average reward: 8.21 +/- 0.05
+2023-12-14 17:30:59,618:INFO: [ITERATION 78]: Average reward: 8.27 +/- 0.05
+2023-12-14 17:31:00,293:INFO: [ITERATION 79]: Average reward: 8.38 +/- 0.05
+2023-12-14 17:31:00,975:INFO: [ITERATION 80]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:31:01,655:INFO: [ITERATION 81]: Average reward: 8.32 +/- 0.05
+2023-12-14 17:31:02,328:INFO: [ITERATION 82]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:31:03,017:INFO: [ITERATION 83]: Average reward: 8.25 +/- 0.05
+2023-12-14 17:31:03,687:INFO: [ITERATION 84]: Average reward: 8.30 +/- 0.05
+2023-12-14 17:31:04,372:INFO: [ITERATION 85]: Average reward: 8.30 +/- 0.05
+2023-12-14 17:31:05,051:INFO: [ITERATION 86]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:31:05,732:INFO: [ITERATION 87]: Average reward: 8.36 +/- 0.05
+2023-12-14 17:31:06,405:INFO: [ITERATION 88]: Average reward: 8.34 +/- 0.05
+2023-12-14 17:31:07,091:INFO: [ITERATION 89]: Average reward: 8.33 +/- 0.05
+2023-12-14 17:31:07,765:INFO: [ITERATION 90]: Average reward: 8.28 +/- 0.05
+2023-12-14 17:31:08,441:INFO: [ITERATION 91]: Average reward: 8.29 +/- 0.05
+2023-12-14 17:31:09,131:INFO: [ITERATION 92]: Average reward: 8.25 +/- 0.05
+2023-12-14 17:31:09,829:INFO: [ITERATION 93]: Average reward: 8.24 +/- 0.05
+2023-12-14 17:31:10,520:INFO: [ITERATION 94]: Average reward: 8.20 +/- 0.05
+2023-12-14 17:31:11,202:INFO: [ITERATION 95]: Average reward: 8.26 +/- 0.05
+2023-12-14 17:31:11,892:INFO: [ITERATION 96]: Average reward: 8.34 +/- 0.05
+2023-12-14 17:31:12,572:INFO: [ITERATION 97]: Average reward: 8.27 +/- 0.05
+2023-12-14 17:31:13,254:INFO: [ITERATION 98]: Average reward: 8.22 +/- 0.05
+2023-12-14 17:31:13,931:INFO: [ITERATION 99]: Average reward: 8.31 +/- 0.04
+2023-12-14 17:31:13,931:INFO: - Training done.
+2023-12-14 17:31:13,951:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,952:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,953:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,954:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-14 17:31:13,955:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'Suruma' (Suruma.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'Saab' (Saab.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,956:DEBUG: findfont: score(<Font 'Uroob' (Uroob-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Loma' (Loma.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'FontAwesome' (FontAwesome.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,957:DEBUG: findfont: score(<Font 'KacstTitle' (KacstTitle.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'Ramaraja' (Ramaraja-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'P052' (P052-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'FontAwesome' (fontawesome-webfont.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'Phetsarath OT' (Phetsarath_OT.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'msam10' (msam10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'RaviPrakash' (RaviPrakash.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,958:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'Dhurjati' (dhurjati.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,959:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'LKLUG' (lklug.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'KacstScreen' (KacstScreen.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'D050000L' (D050000L.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'KacstDecorative' (KacstDecorative.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,960:DEBUG: findfont: score(<Font 'Norasi' (Norasi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'MathJax_WinIE6' (MathJax_WinIE6-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'P052' (P052-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-LightItalic.ttf) italic normal 300 normal>) = 11.145
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-LightItalic.otf) italic normal 300 normal>) = 11.145
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'Pagul' (Pagul.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'P052' (P052-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,961:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-DemiItalic.otf) italic normal 600 normal>) = 11.24
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'Ubuntu Condensed' (Ubuntu-C.ttf) normal normal 400 condensed>) = 10.25
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'KacstDigital' (KacstDigital.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'rsfs10' (rsfs10.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'Nakula' (nakula.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,962:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Ramabhadra' (ramabhadra.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'padmaa' (padmaa-Medium-0.5.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-L.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'C059' (C059-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,963:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Loma' (Loma-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Lohit Odia' (Lohit-Odia.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'KacstBook' (KacstBook.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'MathJax_Size3' (MathJax_Size3-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-M.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Mukti' (Muktibold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Gidugu' (Gidugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,964:DEBUG: findfont: score(<Font 'Likhan' (LikhanNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'MathJax_Size4' (MathJax_Size4-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Suravaram' (Suravaram.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'MathJax_WinChrome' (MathJax_WinChrome-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Pothana2000' (Pothana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'TenaliRamakrishna' (TenaliRamakrishna-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Kalimati' (kalimati.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'FreeSans' (FreeSans.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,965:DEBUG: findfont: score(<Font 'Lohit Tamil' (Lohit-Tamil.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Light.otf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Dyuthi' (Dyuthi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'MathJax_Size2' (MathJax_Size2-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'KacstOffice' (KacstOffice.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,966:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'RaghuMalayalamSans' (RaghuMalayalamSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'Khmer OS System' (KhmerOSsys.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'Loma' (Loma-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'AnjaliOldLipi' (AnjaliOldLipi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'ori1Uni' (utkal.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'Waree' (Waree-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'Mitra ' (MitraMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'LakkiReddy' (LakkiReddy.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'MathJax_Typewriter' (MathJax_Typewriter-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,967:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Purisa' (Purisa-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Timmana' (TimmanaRegular.ttf) normal normal 900 normal>) = 10.525
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'P052' (P052-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Khmer OS' (KhmerOS.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,968:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Lohit Devanagari' (Lohit-Devanagari.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'C059' (C059-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Ani' (Ani.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Samyak Gujarati' (Samyak-Gujarati.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Mandali' (Mandali-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'esint10' (esint10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'KacstPoster' (KacstPoster.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,969:DEBUG: findfont: score(<Font 'Gargi' (Gargi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Sarai' (Sarai.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBoldOblique.ttf) oblique normal 600 normal>) = 11.24
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Lohit Kannada' (Lohit-Kannada.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'dsrom10' (dsrom10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'KacstLetter' (KacstLetter.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'KacstNaskh' (KacstNaskh.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Mallanna' (mallanna.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Waree' (Waree-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,970:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Bold.otf) normal normal 700 condensed>) = 10.535
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'KacstFarsi' (KacstFarsi.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Kalapi' (Kalapi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'MathJax_Size1' (MathJax_Size1-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'MathJax_Script' (MathJax_Script-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'C059' (C059-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Standard Symbols PS' (StandardSymbolsPS.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-Th.ttf) normal normal 250 normal>) = 10.1925
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Loma' (Loma-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,971:DEBUG: findfont: score(<Font 'Suranna' (suranna.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Rasa' (Rasa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Gubbi' (Gubbi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Samyak Malayalam' (Samyak-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Samyak Devanagari' (Samyak-Devanagari.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Sree Krushnadevaraya' (SreeKrushnadevaraya.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,972:DEBUG: findfont: score(<Font 'Abyssinica SIL' (AbyssinicaSIL-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-MI.ttf) italic normal 500 normal>) = 11.145
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-BookOblique.otf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'KacstArt' (KacstArt.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'Lohit Assamese' (Lohit-Assamese.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-14 17:31:13,973:DEBUG: findfont: score(<Font 'Garuda' (Garuda.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'Navilu' (Navilu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'padmaa-Bold.1.1' (padmaa-Bold.1.1.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,974:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Jamrul' (JamrulNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Keraleeyam' (Keraleeyam-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Umpush' (Umpush-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Lohit Malayalam' (Lohit-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'GLYPHICONS Halflings' (glyphicons-halflings-regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Lohit Tamil Classical' (Lohit-Tamil-Classical.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,975:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-DemiOblique.otf) oblique normal 600 normal>) = 11.24
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Purisa' (Purisa.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Waree' (Waree.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Vemana2000' (vemana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'aakar' (aakar-medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Ponnala' (Ponnala.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Lohit Gurmukhi' (Lohit-Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'MathJax_Vector-Bold' (MathJax_Vector-Bold.otf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'OpenSymbol' (opens___.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,976:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Tibetan Machine Uni' (TibetanMachineUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Peddana' (Peddana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'KacstTitleL' (KacstTitleL.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Garuda' (Garuda-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Lohit Telugu' (Lohit-Telugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,977:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'Potti Sreeramulu' (PottiSreeramulu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBoldItalic.ttf) italic normal 600 normal>) = 11.24
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'wasy10' (wasy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'Umpush' (Umpush-LightOblique.ttf) oblique normal 300 normal>) = 11.145
+2023-12-14 17:31:13,978:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Book.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Regular.otf) normal normal 400 condensed>) = 10.25
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'NTR' (NTR.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-LI.ttf) italic normal 300 normal>) = 11.145
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Umpush' (Umpush.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-BoldOblique.otf) oblique normal 700 condensed>) = 11.535
+2023-12-14 17:31:13,979:DEBUG: findfont: score(<Font 'Noto Mono' (NotoMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Lohit Gujarati' (Lohit-Gujarati.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Chilanka' (Chilanka-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-14 17:31:13,980:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'Lohit Bengali' (Lohit-Bengali.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'mry_KacstQurn' (mry_KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'padmaa' (padmaa.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'Droid Sans Fallback' (DroidSansFallbackFull.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,981:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'msbm10' (msbm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Rekha' (Rekha.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Waree' (Waree-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Mukti' (Mukti.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Gurajada' (Gurajada.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,982:DEBUG: findfont: score(<Font 'Syamala Ramana' (SyamalaRamana.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'KacstPen' (KacstPen.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Meera' (Meera-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Chandas' (chandas1-2.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Samanata' (samanata.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-MediumItalic.ttf) italic normal 500 normal>) = 11.145
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,983:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'eufm10' (eufm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'MathJax_AMS' (MathJax_AMS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'NATS' (NATS.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Samyak Tamil' (Samyak-Tamil.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Oblique.otf) oblique normal 400 condensed>) = 11.25
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'C059' (C059-BdIta.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'KacstQurn' (KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Sahadeva' (sahadeva.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'stmary10' (stmary10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,984:DEBUG: findfont: score(<Font 'Karumbi' (Karumbi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,985:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,985:DEBUG: findfont: score(<Font 'MathJax_Vector' (MathJax_Vector-Regular.otf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:13,985:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,985:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,985:DEBUG: findfont: score(<Font 'Z003' (Z003-MediumItalic.otf) italic normal 500 normal>) = 11.145
+2023-12-14 17:31:13,985:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/scott/anaconda3/envs/cs234-torch/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-12-14 17:31:13,995:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2023-12-14 17:31:13,996:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,996:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:13,996:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,996:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,996:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,996:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,997:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,998:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:13,999:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,000:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Suruma' (Suruma.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Saab' (Saab.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Uroob' (Uroob-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Loma' (Loma.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,001:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'FontAwesome' (FontAwesome.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,002:DEBUG: findfont: score(<Font 'KacstTitle' (KacstTitle.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Ramaraja' (Ramaraja-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'P052' (P052-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'FontAwesome' (fontawesome-webfont.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Phetsarath OT' (Phetsarath_OT.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'msam10' (msam10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'RaviPrakash' (RaviPrakash.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,003:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'Dhurjati' (dhurjati.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'LKLUG' (lklug.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'KacstScreen' (KacstScreen.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'D050000L' (D050000L.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,004:DEBUG: findfont: score(<Font 'KacstDecorative' (KacstDecorative.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'Norasi' (Norasi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'MathJax_WinIE6' (MathJax_WinIE6-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'P052' (P052-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-LightItalic.ttf) italic normal 300 normal>) = 11.145
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-LightItalic.otf) italic normal 300 normal>) = 11.145
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'Pagul' (Pagul.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'P052' (P052-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-DemiItalic.otf) italic normal 600 normal>) = 11.24
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'Ubuntu Condensed' (Ubuntu-C.ttf) normal normal 400 condensed>) = 10.25
+2023-12-14 17:31:14,005:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'KacstDigital' (KacstDigital.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'rsfs10' (rsfs10.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'Nakula' (nakula.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'Ramabhadra' (ramabhadra.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,006:DEBUG: findfont: score(<Font 'padmaa' (padmaa-Medium-0.5.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-L.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'C059' (C059-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,007:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'Loma' (Loma-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'Lohit Odia' (Lohit-Odia.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'KacstBook' (KacstBook.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'MathJax_Size3' (MathJax_Size3-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,008:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-M.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Mukti' (Muktibold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Gidugu' (Gidugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Likhan' (LikhanNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'MathJax_Size4' (MathJax_Size4-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,009:DEBUG: findfont: score(<Font 'Suravaram' (Suravaram.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'MathJax_WinChrome' (MathJax_WinChrome-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'Pothana2000' (Pothana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,010:DEBUG: findfont: score(<Font 'TenaliRamakrishna' (TenaliRamakrishna-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'Kalimati' (kalimati.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'FreeSans' (FreeSans.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'Lohit Tamil' (Lohit-Tamil.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Light.otf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'Dyuthi' (Dyuthi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,011:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'MathJax_Size2' (MathJax_Size2-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'KacstOffice' (KacstOffice.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,012:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'RaghuMalayalamSans' (RaghuMalayalamSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'Khmer OS System' (KhmerOSsys.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'Loma' (Loma-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'AnjaliOldLipi' (AnjaliOldLipi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'ori1Uni' (utkal.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,013:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'Waree' (Waree-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'Mitra ' (MitraMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'LakkiReddy' (LakkiReddy.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'MathJax_Typewriter' (MathJax_Typewriter-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,014:DEBUG: findfont: score(<Font 'Purisa' (Purisa-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'Timmana' (TimmanaRegular.ttf) normal normal 900 normal>) = 10.525
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'P052' (P052-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,015:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'Khmer OS' (KhmerOS.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'Lohit Devanagari' (Lohit-Devanagari.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,016:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'C059' (C059-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'Ani' (Ani.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'Samyak Gujarati' (Samyak-Gujarati.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'Mandali' (Mandali-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'esint10' (esint10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,017:DEBUG: findfont: score(<Font 'KacstPoster' (KacstPoster.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'Gargi' (Gargi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'Sarai' (Sarai.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBoldOblique.ttf) oblique normal 600 normal>) = 11.24
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'Lohit Kannada' (Lohit-Kannada.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'dsrom10' (dsrom10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'KacstLetter' (KacstLetter.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,018:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'KacstNaskh' (KacstNaskh.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Mallanna' (mallanna.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Waree' (Waree-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,019:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Bold.otf) normal normal 700 condensed>) = 10.535
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'KacstFarsi' (KacstFarsi.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'Kalapi' (Kalapi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'MathJax_Size1' (MathJax_Size1-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'MathJax_Script' (MathJax_Script-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,020:DEBUG: findfont: score(<Font 'C059' (C059-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Standard Symbols PS' (StandardSymbolsPS.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-Th.ttf) normal normal 250 normal>) = 10.1925
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Loma' (Loma-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Suranna' (suranna.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Rasa' (Rasa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:14,021:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Gubbi' (Gubbi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Samyak Malayalam' (Samyak-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Samyak Devanagari' (Samyak-Devanagari.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,022:DEBUG: findfont: score(<Font 'Sree Krushnadevaraya' (SreeKrushnadevaraya.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'Abyssinica SIL' (AbyssinicaSIL-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-MI.ttf) italic normal 500 normal>) = 11.145
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-BookOblique.otf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'KacstArt' (KacstArt.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'Lohit Assamese' (Lohit-Assamese.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,023:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'Garuda' (Garuda.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:14,024:DEBUG: findfont: score(<Font 'Navilu' (Navilu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'padmaa-Bold.1.1' (padmaa-Bold.1.1.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Jamrul' (JamrulNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Keraleeyam' (Keraleeyam-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Umpush' (Umpush-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,025:DEBUG: findfont: score(<Font 'Lohit Malayalam' (Lohit-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'GLYPHICONS Halflings' (glyphicons-halflings-regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'Lohit Tamil Classical' (Lohit-Tamil-Classical.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-DemiOblique.otf) oblique normal 600 normal>) = 11.24
+2023-12-14 17:31:14,026:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'Purisa' (Purisa.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'Waree' (Waree.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'Vemana2000' (vemana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'aakar' (aakar-medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'Ponnala' (Ponnala.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'Lohit Gurmukhi' (Lohit-Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:14,027:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'MathJax_Vector-Bold' (MathJax_Vector-Bold.otf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'OpenSymbol' (opens___.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'Tibetan Machine Uni' (TibetanMachineUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'Peddana' (Peddana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'KacstTitleL' (KacstTitleL.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,028:DEBUG: findfont: score(<Font 'Garuda' (Garuda-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'Lohit Telugu' (Lohit-Telugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'Potti Sreeramulu' (PottiSreeramulu.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBoldItalic.ttf) italic normal 600 normal>) = 11.24
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,029:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'wasy10' (wasy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'Umpush' (Umpush-LightOblique.ttf) oblique normal 300 normal>) = 11.145
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Book.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Regular.otf) normal normal 400 condensed>) = 10.25
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'NTR' (NTR.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,030:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-LI.ttf) italic normal 300 normal>) = 11.145
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'Umpush' (Umpush.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-BoldOblique.otf) oblique normal 700 condensed>) = 11.535
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'Noto Mono' (NotoMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,031:DEBUG: findfont: score(<Font 'Lohit Gujarati' (Lohit-Gujarati.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Chilanka' (Chilanka-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-14 17:31:14,032:DEBUG: findfont: score(<Font 'Lohit Bengali' (Lohit-Bengali.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'mry_KacstQurn' (mry_KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'padmaa' (padmaa.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'Droid Sans Fallback' (DroidSansFallbackFull.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,033:DEBUG: findfont: score(<Font 'msbm10' (msbm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'Rekha' (Rekha.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'Waree' (Waree-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,034:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Mukti' (Mukti.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Gurajada' (Gurajada.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Syamala Ramana' (SyamalaRamana.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'KacstPen' (KacstPen.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Meera' (Meera-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Chandas' (chandas1-2.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Samanata' (samanata.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,035:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-MediumItalic.ttf) italic normal 500 normal>) = 11.145
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,036:DEBUG: findfont: score(<Font 'eufm10' (eufm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'MathJax_AMS' (MathJax_AMS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'NATS' (NATS.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'Samyak Tamil' (Samyak-Tamil.ttf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Oblique.otf) oblique normal 400 condensed>) = 11.25
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'C059' (C059-BdIta.otf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-14 17:31:14,037:DEBUG: findfont: score(<Font 'KacstQurn' (KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'Sahadeva' (sahadeva.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'stmary10' (stmary10.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'Karumbi' (Karumbi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'MathJax_Vector' (MathJax_Vector-Regular.otf) normal normal 500 normal>) = 10.145
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-14 17:31:14,038:DEBUG: findfont: score(<Font 'Z003' (Z003-MediumItalic.otf) italic normal 500 normal>) = 11.145
+2023-12-14 17:31:14,038:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/scott/anaconda3/envs/cs234-torch/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-12-15 11:29:20,399:INFO: [ITERATION 0]: Average reward: 21.22 +/- 1.25
+2023-12-15 11:29:21,096:INFO: [ITERATION 1]: Average reward: 20.95 +/- 1.12
+2023-12-15 11:29:21,789:INFO: [ITERATION 2]: Average reward: 15.98 +/- 0.68
+2023-12-15 11:29:22,519:INFO: [ITERATION 3]: Average reward: 11.76 +/- 0.29
+2023-12-15 11:29:23,203:INFO: [ITERATION 4]: Average reward: 10.95 +/- 0.22
+2023-12-15 11:29:23,959:INFO: [ITERATION 5]: Average reward: 10.38 +/- 0.16
+2023-12-15 11:29:24,690:INFO: [ITERATION 6]: Average reward: 9.91 +/- 0.14
+2023-12-15 11:29:25,391:INFO: [ITERATION 7]: Average reward: 9.43 +/- 0.12
+2023-12-15 11:29:26,128:INFO: [ITERATION 8]: Average reward: 8.96 +/- 0.08
+2023-12-15 11:29:26,885:INFO: [ITERATION 9]: Average reward: 8.66 +/- 0.07
+2023-12-15 11:29:27,698:INFO: [ITERATION 10]: Average reward: 8.44 +/- 0.06
+2023-12-15 11:29:28,428:INFO: [ITERATION 11]: Average reward: 8.37 +/- 0.06
+2023-12-15 11:29:29,126:INFO: [ITERATION 12]: Average reward: 8.38 +/- 0.05
+2023-12-15 11:29:29,864:INFO: [ITERATION 13]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:29:30,572:INFO: [ITERATION 14]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:29:31,257:INFO: [ITERATION 15]: Average reward: 8.37 +/- 0.04
+2023-12-15 11:29:31,968:INFO: [ITERATION 16]: Average reward: 8.27 +/- 0.05
+2023-12-15 11:29:32,727:INFO: [ITERATION 17]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:29:33,553:INFO: [ITERATION 18]: Average reward: 8.43 +/- 0.05
+2023-12-15 11:29:34,278:INFO: [ITERATION 19]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:29:34,977:INFO: [ITERATION 20]: Average reward: 8.30 +/- 0.05
+2023-12-15 11:29:35,694:INFO: [ITERATION 21]: Average reward: 8.30 +/- 0.05
+2023-12-15 11:29:36,387:INFO: [ITERATION 22]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:29:37,152:INFO: [ITERATION 23]: Average reward: 8.28 +/- 0.05
+2023-12-15 11:29:37,921:INFO: [ITERATION 24]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:29:38,707:INFO: [ITERATION 25]: Average reward: 8.35 +/- 0.05
+2023-12-15 11:29:39,464:INFO: [ITERATION 26]: Average reward: 8.21 +/- 0.05
+2023-12-15 11:29:40,197:INFO: [ITERATION 27]: Average reward: 8.30 +/- 0.05
+2023-12-15 11:29:40,979:INFO: [ITERATION 28]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:29:41,718:INFO: [ITERATION 29]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:29:42,457:INFO: [ITERATION 30]: Average reward: 8.27 +/- 0.05
+2023-12-15 11:29:43,197:INFO: [ITERATION 31]: Average reward: 8.27 +/- 0.05
+2023-12-15 11:29:43,928:INFO: [ITERATION 32]: Average reward: 8.28 +/- 0.05
+2023-12-15 11:29:44,649:INFO: [ITERATION 33]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:29:45,369:INFO: [ITERATION 34]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:29:46,086:INFO: [ITERATION 35]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:29:46,823:INFO: [ITERATION 36]: Average reward: 8.27 +/- 0.05
+2023-12-15 11:29:47,574:INFO: [ITERATION 37]: Average reward: 8.33 +/- 0.05
+2023-12-15 11:29:48,326:INFO: [ITERATION 38]: Average reward: 8.16 +/- 0.05
+2023-12-15 11:29:49,084:INFO: [ITERATION 39]: Average reward: 8.36 +/- 0.04
+2023-12-15 11:29:49,819:INFO: [ITERATION 40]: Average reward: 8.22 +/- 0.05
+2023-12-15 11:29:50,556:INFO: [ITERATION 41]: Average reward: 8.37 +/- 0.05
+2023-12-15 11:29:51,281:INFO: [ITERATION 42]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:29:51,997:INFO: [ITERATION 43]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:29:52,710:INFO: [ITERATION 44]: Average reward: 8.25 +/- 0.05
+2023-12-15 11:29:53,400:INFO: [ITERATION 45]: Average reward: 8.21 +/- 0.05
+2023-12-15 11:29:54,109:INFO: [ITERATION 46]: Average reward: 8.36 +/- 0.05
+2023-12-15 11:29:54,816:INFO: [ITERATION 47]: Average reward: 8.33 +/- 0.05
+2023-12-15 11:29:55,543:INFO: [ITERATION 48]: Average reward: 8.33 +/- 0.05
+2023-12-15 11:29:56,293:INFO: [ITERATION 49]: Average reward: 8.28 +/- 0.05
+2023-12-15 11:29:56,990:INFO: [ITERATION 50]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:29:57,726:INFO: [ITERATION 51]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:29:58,410:INFO: [ITERATION 52]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:29:59,125:INFO: [ITERATION 53]: Average reward: 8.21 +/- 0.05
+2023-12-15 11:29:59,816:INFO: [ITERATION 54]: Average reward: 8.28 +/- 0.05
+2023-12-15 11:30:00,510:INFO: [ITERATION 55]: Average reward: 8.38 +/- 0.05
+2023-12-15 11:30:01,192:INFO: [ITERATION 56]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:30:01,885:INFO: [ITERATION 57]: Average reward: 8.21 +/- 0.05
+2023-12-15 11:30:02,576:INFO: [ITERATION 58]: Average reward: 8.33 +/- 0.05
+2023-12-15 11:30:03,272:INFO: [ITERATION 59]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:30:04,008:INFO: [ITERATION 60]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:30:04,738:INFO: [ITERATION 61]: Average reward: 8.25 +/- 0.05
+2023-12-15 11:30:05,558:INFO: [ITERATION 62]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:30:06,263:INFO: [ITERATION 63]: Average reward: 8.25 +/- 0.04
+2023-12-15 11:30:06,961:INFO: [ITERATION 64]: Average reward: 8.30 +/- 0.05
+2023-12-15 11:30:07,676:INFO: [ITERATION 65]: Average reward: 8.36 +/- 0.05
+2023-12-15 11:30:08,396:INFO: [ITERATION 66]: Average reward: 8.36 +/- 0.05
+2023-12-15 11:30:09,097:INFO: [ITERATION 67]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:30:09,797:INFO: [ITERATION 68]: Average reward: 8.33 +/- 0.05
+2023-12-15 11:30:10,490:INFO: [ITERATION 69]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:30:11,207:INFO: [ITERATION 70]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:30:11,905:INFO: [ITERATION 71]: Average reward: 8.35 +/- 0.05
+2023-12-15 11:30:12,600:INFO: [ITERATION 72]: Average reward: 8.31 +/- 0.05
+2023-12-15 11:30:13,305:INFO: [ITERATION 73]: Average reward: 8.25 +/- 0.05
+2023-12-15 11:30:14,029:INFO: [ITERATION 74]: Average reward: 8.39 +/- 0.05
+2023-12-15 11:30:14,762:INFO: [ITERATION 75]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:30:15,497:INFO: [ITERATION 76]: Average reward: 8.32 +/- 0.04
+2023-12-15 11:30:16,189:INFO: [ITERATION 77]: Average reward: 8.21 +/- 0.05
+2023-12-15 11:30:16,895:INFO: [ITERATION 78]: Average reward: 8.27 +/- 0.05
+2023-12-15 11:30:17,588:INFO: [ITERATION 79]: Average reward: 8.38 +/- 0.05
+2023-12-15 11:30:18,288:INFO: [ITERATION 80]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:30:19,010:INFO: [ITERATION 81]: Average reward: 8.32 +/- 0.05
+2023-12-15 11:30:19,724:INFO: [ITERATION 82]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:30:20,513:INFO: [ITERATION 83]: Average reward: 8.25 +/- 0.05
+2023-12-15 11:30:21,240:INFO: [ITERATION 84]: Average reward: 8.30 +/- 0.05
+2023-12-15 11:30:21,976:INFO: [ITERATION 85]: Average reward: 8.30 +/- 0.05
+2023-12-15 11:30:22,793:INFO: [ITERATION 86]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:30:23,529:INFO: [ITERATION 87]: Average reward: 8.36 +/- 0.05
+2023-12-15 11:30:24,250:INFO: [ITERATION 88]: Average reward: 8.34 +/- 0.05
+2023-12-15 11:30:25,098:INFO: [ITERATION 89]: Average reward: 8.33 +/- 0.05
+2023-12-15 11:30:25,846:INFO: [ITERATION 90]: Average reward: 8.28 +/- 0.05
+2023-12-15 11:30:26,575:INFO: [ITERATION 91]: Average reward: 8.29 +/- 0.05
+2023-12-15 11:30:27,350:INFO: [ITERATION 92]: Average reward: 8.25 +/- 0.05
+2023-12-15 11:30:28,083:INFO: [ITERATION 93]: Average reward: 8.24 +/- 0.05
+2023-12-15 11:30:28,838:INFO: [ITERATION 94]: Average reward: 8.20 +/- 0.05
+2023-12-15 11:30:29,566:INFO: [ITERATION 95]: Average reward: 8.26 +/- 0.05
+2023-12-15 11:30:30,301:INFO: [ITERATION 96]: Average reward: 8.34 +/- 0.05
+2023-12-15 11:30:31,001:INFO: [ITERATION 97]: Average reward: 8.27 +/- 0.05
+2023-12-15 11:30:31,698:INFO: [ITERATION 98]: Average reward: 8.22 +/- 0.05
+2023-12-15 11:30:32,400:INFO: [ITERATION 99]: Average reward: 8.31 +/- 0.04
+2023-12-15 11:30:32,400:INFO: - Training done.
+2023-12-15 11:30:32,429:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,430:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,431:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,432:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'Suruma' (Suruma.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,433:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Saab' (Saab.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Uroob' (Uroob-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Loma' (Loma.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'FontAwesome' (FontAwesome.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,434:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'KacstTitle' (KacstTitle.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'Ramaraja' (Ramaraja-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'P052' (P052-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'FontAwesome' (fontawesome-webfont.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'Phetsarath OT' (Phetsarath_OT.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'msam10' (msam10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,435:DEBUG: findfont: score(<Font 'RaviPrakash' (RaviPrakash.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Dhurjati' (dhurjati.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,436:DEBUG: findfont: score(<Font 'LKLUG' (lklug.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'KacstScreen' (KacstScreen.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'D050000L' (D050000L.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'KacstDecorative' (KacstDecorative.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'Norasi' (Norasi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'MathJax_WinIE6' (MathJax_WinIE6-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'P052' (P052-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-LightItalic.ttf) italic normal 300 normal>) = 11.145
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-LightItalic.otf) italic normal 300 normal>) = 11.145
+2023-12-15 11:30:32,437:DEBUG: findfont: score(<Font 'Pagul' (Pagul.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'P052' (P052-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-DemiItalic.otf) italic normal 600 normal>) = 11.24
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Ubuntu Condensed' (Ubuntu-C.ttf) normal normal 400 condensed>) = 10.25
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'KacstDigital' (KacstDigital.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'rsfs10' (rsfs10.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Nakula' (nakula.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'Ramabhadra' (ramabhadra.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,438:DEBUG: findfont: score(<Font 'padmaa' (padmaa-Medium-0.5.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-L.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'C059' (C059-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Loma' (Loma-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'Lohit Odia' (Lohit-Odia.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,439:DEBUG: findfont: score(<Font 'KacstBook' (KacstBook.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'MathJax_Size3' (MathJax_Size3-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-M.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Mukti' (Muktibold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Gidugu' (Gidugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Likhan' (LikhanNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'MathJax_Size4' (MathJax_Size4-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,440:DEBUG: findfont: score(<Font 'Suravaram' (Suravaram.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'MathJax_WinChrome' (MathJax_WinChrome-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'Pothana2000' (Pothana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'TenaliRamakrishna' (TenaliRamakrishna-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'Kalimati' (kalimati.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'FreeSans' (FreeSans.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'Lohit Tamil' (Lohit-Tamil.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,441:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Light.otf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Dyuthi' (Dyuthi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'MathJax_Size2' (MathJax_Size2-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'KacstOffice' (KacstOffice.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,442:DEBUG: findfont: score(<Font 'RaghuMalayalamSans' (RaghuMalayalamSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Khmer OS System' (KhmerOSsys.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Loma' (Loma-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'AnjaliOldLipi' (AnjaliOldLipi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'ori1Uni' (utkal.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Waree' (Waree-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Mitra ' (MitraMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'LakkiReddy' (LakkiReddy.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'MathJax_Typewriter' (MathJax_Typewriter-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,443:DEBUG: findfont: score(<Font 'Purisa' (Purisa-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Timmana' (TimmanaRegular.ttf) normal normal 900 normal>) = 10.525
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'P052' (P052-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Khmer OS' (KhmerOS.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,444:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Lohit Devanagari' (Lohit-Devanagari.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'C059' (C059-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Ani' (Ani.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Samyak Gujarati' (Samyak-Gujarati.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Mandali' (Mandali-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'esint10' (esint10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'KacstPoster' (KacstPoster.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,445:DEBUG: findfont: score(<Font 'Gargi' (Gargi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Sarai' (Sarai.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBoldOblique.ttf) oblique normal 600 normal>) = 11.24
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Lohit Kannada' (Lohit-Kannada.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'dsrom10' (dsrom10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'KacstLetter' (KacstLetter.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'KacstNaskh' (KacstNaskh.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Mallanna' (mallanna.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Waree' (Waree-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,446:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Bold.otf) normal normal 700 condensed>) = 10.535
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'KacstFarsi' (KacstFarsi.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Kalapi' (Kalapi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'MathJax_Size1' (MathJax_Size1-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'MathJax_Script' (MathJax_Script-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'C059' (C059-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Standard Symbols PS' (StandardSymbolsPS.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-Th.ttf) normal normal 250 normal>) = 10.1925
+2023-12-15 11:30:32,447:DEBUG: findfont: score(<Font 'Loma' (Loma-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Suranna' (suranna.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Rasa' (Rasa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Gubbi' (Gubbi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Samyak Malayalam' (Samyak-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Samyak Devanagari' (Samyak-Devanagari.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Sree Krushnadevaraya' (SreeKrushnadevaraya.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,448:DEBUG: findfont: score(<Font 'Abyssinica SIL' (AbyssinicaSIL-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-MI.ttf) italic normal 500 normal>) = 11.145
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-BookOblique.otf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'KacstArt' (KacstArt.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Lohit Assamese' (Lohit-Assamese.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Garuda' (Garuda.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,449:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Navilu' (Navilu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'padmaa-Bold.1.1' (padmaa-Bold.1.1.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Jamrul' (JamrulNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Keraleeyam' (Keraleeyam-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Umpush' (Umpush-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,450:DEBUG: findfont: score(<Font 'Lohit Malayalam' (Lohit-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'GLYPHICONS Halflings' (glyphicons-halflings-regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Lohit Tamil Classical' (Lohit-Tamil-Classical.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-DemiOblique.otf) oblique normal 600 normal>) = 11.24
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Purisa' (Purisa.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Waree' (Waree.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,451:DEBUG: findfont: score(<Font 'Vemana2000' (vemana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'aakar' (aakar-medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'Ponnala' (Ponnala.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'Lohit Gurmukhi' (Lohit-Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'MathJax_Vector-Bold' (MathJax_Vector-Bold.otf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,452:DEBUG: findfont: score(<Font 'OpenSymbol' (opens___.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Tibetan Machine Uni' (TibetanMachineUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Peddana' (Peddana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'KacstTitleL' (KacstTitleL.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Garuda' (Garuda-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Lohit Telugu' (Lohit-Telugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,453:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'Potti Sreeramulu' (PottiSreeramulu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBoldItalic.ttf) italic normal 600 normal>) = 11.24
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'wasy10' (wasy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,454:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'Umpush' (Umpush-LightOblique.ttf) oblique normal 300 normal>) = 11.145
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Book.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Regular.otf) normal normal 400 condensed>) = 10.25
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'NTR' (NTR.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,455:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-LI.ttf) italic normal 300 normal>) = 11.145
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'Umpush' (Umpush.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-BoldOblique.otf) oblique normal 700 condensed>) = 11.535
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'Noto Mono' (NotoMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,456:DEBUG: findfont: score(<Font 'Lohit Gujarati' (Lohit-Gujarati.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Chilanka' (Chilanka-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-15 11:30:32,457:DEBUG: findfont: score(<Font 'Lohit Bengali' (Lohit-Bengali.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'mry_KacstQurn' (mry_KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'padmaa' (padmaa.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'Droid Sans Fallback' (DroidSansFallbackFull.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,458:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'msbm10' (msbm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Rekha' (Rekha.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,459:DEBUG: findfont: score(<Font 'Waree' (Waree-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'Mukti' (Mukti.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'Gurajada' (Gurajada.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'Syamala Ramana' (SyamalaRamana.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'KacstPen' (KacstPen.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'Meera' (Meera-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,460:DEBUG: findfont: score(<Font 'Chandas' (chandas1-2.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Samanata' (samanata.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-MediumItalic.ttf) italic normal 500 normal>) = 11.145
+2023-12-15 11:30:32,461:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'eufm10' (eufm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'MathJax_AMS' (MathJax_AMS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'NATS' (NATS.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'Samyak Tamil' (Samyak-Tamil.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,462:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Oblique.otf) oblique normal 400 condensed>) = 11.25
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'C059' (C059-BdIta.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'KacstQurn' (KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'Sahadeva' (sahadeva.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'stmary10' (stmary10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'Karumbi' (Karumbi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,463:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,464:DEBUG: findfont: score(<Font 'MathJax_Vector' (MathJax_Vector-Regular.otf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,464:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,464:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,464:DEBUG: findfont: score(<Font 'Z003' (Z003-MediumItalic.otf) italic normal 500 normal>) = 11.145
+2023-12-15 11:30:32,464:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/scott/anaconda3/envs/cs234-torch/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2023-12-15 11:30:32,481:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,482:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-15 11:30:32,483:DEBUG: findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+2023-12-15 11:30:32,484:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,485:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'Suruma' (Suruma.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,486:DEBUG: findfont: score(<Font 'Saab' (Saab.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'Uroob' (Uroob-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'Loma' (Loma.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,487:DEBUG: findfont: score(<Font 'FontAwesome' (FontAwesome.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'KacstTitle' (KacstTitle.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'Ramaraja' (Ramaraja-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'P052' (P052-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,488:DEBUG: findfont: score(<Font 'FontAwesome' (fontawesome-webfont.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'Phetsarath OT' (Phetsarath_OT.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'msam10' (msam10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'RaviPrakash' (RaviPrakash.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,489:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'Dhurjati' (dhurjati.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,490:DEBUG: findfont: score(<Font 'LKLUG' (lklug.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'KacstScreen' (KacstScreen.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'D050000L' (D050000L.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'KacstDecorative' (KacstDecorative.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'Norasi' (Norasi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,491:DEBUG: findfont: score(<Font 'MathJax_WinIE6' (MathJax_WinIE6-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'P052' (P052-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-LightItalic.ttf) italic normal 300 normal>) = 11.145
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-LightItalic.otf) italic normal 300 normal>) = 11.145
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'Pagul' (Pagul.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'P052' (P052-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,492:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-DemiItalic.otf) italic normal 600 normal>) = 11.24
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'Ubuntu Condensed' (Ubuntu-C.ttf) normal normal 400 condensed>) = 10.25
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'KacstDigital' (KacstDigital.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'rsfs10' (rsfs10.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'Nakula' (nakula.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,493:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'Ramabhadra' (ramabhadra.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'padmaa' (padmaa-Medium-0.5.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,494:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-L.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'C059' (C059-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'Loma' (Loma-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,495:DEBUG: findfont: score(<Font 'Lohit Odia' (Lohit-Odia.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'KacstBook' (KacstBook.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'MathJax_Size3' (MathJax_Size3-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-M.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,496:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'Mukti' (Muktibold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'Gidugu' (Gidugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'Likhan' (LikhanNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'MathJax_Size4' (MathJax_Size4-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'Suravaram' (Suravaram.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,497:DEBUG: findfont: score(<Font 'MathJax_WinChrome' (MathJax_WinChrome-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'Pothana2000' (Pothana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'TenaliRamakrishna' (TenaliRamakrishna-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'Kalimati' (kalimati.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,498:DEBUG: findfont: score(<Font 'FreeSans' (FreeSans.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'Lohit Tamil' (Lohit-Tamil.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'MathJax_Caligraphic' (MathJax_Caligraphic-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Light.otf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'Dyuthi' (Dyuthi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Light.ttf) normal normal 300 normal>) = 10.145
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'MathJax_Size2' (MathJax_Size2-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,499:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-BI.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'KacstOffice' (KacstOffice.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,500:DEBUG: findfont: score(<Font 'RaghuMalayalamSans' (RaghuMalayalamSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'Khmer OS System' (KhmerOSsys.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'Loma' (Loma-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'AnjaliOldLipi' (AnjaliOldLipi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'ori1Uni' (utkal.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'Waree' (Waree-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'Mitra ' (MitraMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,501:DEBUG: findfont: score(<Font 'LakkiReddy' (LakkiReddy.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'MathJax_Typewriter' (MathJax_Typewriter-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'Purisa' (Purisa-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,502:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'Timmana' (TimmanaRegular.ttf) normal normal 900 normal>) = 10.525
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'P052' (P052-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'Khmer OS' (KhmerOS.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,503:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Lohit Devanagari' (Lohit-Devanagari.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'C059' (C059-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Ani' (Ani.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Samyak Gujarati' (Samyak-Gujarati.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Mandali' (Mandali-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,504:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'esint10' (esint10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'KacstPoster' (KacstPoster.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'Gargi' (Gargi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'Sarai' (Sarai.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBoldOblique.ttf) oblique normal 600 normal>) = 11.24
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'Lohit Kannada' (Lohit-Kannada.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,505:DEBUG: findfont: score(<Font 'dsrom10' (dsrom10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'KacstLetter' (KacstLetter.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-R.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'Rachana' (Rachana-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'KacstNaskh' (KacstNaskh.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'Mallanna' (mallanna.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-RI.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,506:DEBUG: findfont: score(<Font 'Waree' (Waree-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Bold.otf) normal normal 700 condensed>) = 10.535
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'KacstFarsi' (KacstFarsi.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'Padauk' (Padauk-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'Kalapi' (Kalapi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'MathJax_Size1' (MathJax_Size1-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,507:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'MathJax_Script' (MathJax_Script-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'C059' (C059-Roman.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Standard Symbols PS' (StandardSymbolsPS.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-Th.ttf) normal normal 250 normal>) = 10.1925
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Loma' (Loma-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Suranna' (suranna.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Rasa' (Rasa-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,508:DEBUG: findfont: score(<Font 'Rasa' (Rasa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Garuda' (Garuda-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Gubbi' (Gubbi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'MathJax_SansSerif' (MathJax_SansSerif-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Samyak Malayalam' (Samyak-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,509:DEBUG: findfont: score(<Font 'Samyak Devanagari' (Samyak-Devanagari.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'Sree Krushnadevaraya' (SreeKrushnadevaraya.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'Abyssinica SIL' (AbyssinicaSIL-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-MI.ttf) italic normal 500 normal>) = 11.145
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-BookOblique.otf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,510:DEBUG: findfont: score(<Font 'KacstArt' (KacstArt.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'Lohit Assamese' (Lohit-Assamese.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'Garuda' (Garuda.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'MathJax_Fraktur' (MathJax_Fraktur-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,511:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'Navilu' (Navilu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'padmaa-Bold.1.1' (padmaa-Bold.1.1.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'Jamrul' (JamrulNormal.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'Keraleeyam' (Keraleeyam-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,512:DEBUG: findfont: score(<Font 'Purisa' (Purisa-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'Umpush' (Umpush-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'Lohit Malayalam' (Lohit-Malayalam.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'GLYPHICONS Halflings' (glyphicons-halflings-regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'Lohit Tamil Classical' (Lohit-Tamil-Classical.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,513:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-DemiOblique.otf) oblique normal 600 normal>) = 11.24
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'Purisa' (Purisa.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'Waree' (Waree.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'Vemana2000' (vemana2000.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'aakar' (aakar-medium.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'Ponnala' (Ponnala.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,514:DEBUG: findfont: score(<Font 'Lohit Gurmukhi' (Lohit-Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'FreeSans' (FreeSansBold.ttf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'Gayathri' (Gayathri-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'MathJax_Vector-Bold' (MathJax_Vector-Bold.otf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'KacstOne' (KacstOne.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'OpenSymbol' (opens___.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,515:DEBUG: findfont: score(<Font 'Tibetan Machine Uni' (TibetanMachineUni.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Peddana' (Peddana-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'KacstTitleL' (KacstTitleL.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Garuda' (Garuda-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Lohit Telugu' (Lohit-Telugu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Potti Sreeramulu' (PottiSreeramulu.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,516:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-SemiBoldItalic.ttf) italic normal 600 normal>) = 11.24
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'wasy10' (wasy10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'Norasi' (Norasi-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'Umpush' (Umpush-LightOblique.ttf) oblique normal 300 normal>) = 11.145
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'URW Gothic' (URWGothic-Book.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Regular.otf) normal normal 400 condensed>) = 10.25
+2023-12-15 11:30:32,517:DEBUG: findfont: score(<Font 'NTR' (NTR.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Umpush' (Umpush-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Laksaman' (Laksaman.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-LI.ttf) italic normal 300 normal>) = 11.145
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Umpush' (Umpush.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-BoldOblique.otf) oblique normal 700 condensed>) = 11.535
+2023-12-15 11:30:32,518:DEBUG: findfont: score(<Font 'Noto Mono' (NotoMono-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifItalic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'Lohit Gujarati' (Lohit-Gujarati.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'Chilanka' (Chilanka-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'Padauk Book' (PadaukBook-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'Nimbus Sans' (NimbusSans-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,519:DEBUG: findfont: score(<Font 'Manjari' (Manjari-Thin.otf) normal normal 100 normal>) = 10.335
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'Lohit Bengali' (Lohit-Bengali.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'Norasi' (Norasi-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'Tlwg Mono' (TlwgMono.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'mry_KacstQurn' (mry_KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,520:DEBUG: findfont: score(<Font 'padmaa' (padmaa.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'Droid Sans Fallback' (DroidSansFallbackFull.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'URW Bookman' (URWBookman-Demi.otf) normal normal 600 normal>) = 10.24
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'Kinnari' (Kinnari-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'msbm10' (msbm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'Rekha' (Rekha.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'Ubuntu' (Ubuntu-B.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+2023-12-15 11:30:32,521:DEBUG: findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'Waree' (Waree-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'MathJax_Main' (MathJax_Main-Bold.otf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'Mukti' (Mukti.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'Gurajada' (Gurajada.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'Syamala Ramana' (SyamalaRamana.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,522:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'KacstPen' (KacstPen.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Meera' (Meera-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Chandas' (chandas1-2.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Samanata' (samanata.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Italic.otf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,523:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Oblique.ttf) oblique normal 400 normal>) = 11.05
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'Yrsa' (Yrsa-MediumItalic.ttf) italic normal 500 normal>) = 11.145
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'MathJax_Math' (MathJax_Math-BoldItalic.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'FreeSerif' (FreeSerifBold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'eufm10' (eufm10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'MathJax_AMS' (MathJax_AMS-Regular.otf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'NATS' (NATS.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,524:DEBUG: findfont: score(<Font 'Samyak Tamil' (Samyak-Tamil.ttf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'Sawasdee' (Sawasdee-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Oblique.otf) oblique normal 400 condensed>) = 11.25
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'C059' (C059-BdIta.otf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'KacstQurn' (KacstQurn.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'Sahadeva' (sahadeva.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,525:DEBUG: findfont: score(<Font 'stmary10' (stmary10.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,526:DEBUG: findfont: score(<Font 'Karumbi' (Karumbi-Regular.ttf) normal normal 400 normal>) = 10.05
+2023-12-15 11:30:32,526:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,526:DEBUG: findfont: score(<Font 'MathJax_Vector' (MathJax_Vector-Regular.otf) normal normal 500 normal>) = 10.145
+2023-12-15 11:30:32,526:DEBUG: findfont: score(<Font 'Noto Sans Mono' (NotoSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+2023-12-15 11:30:32,526:DEBUG: findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+2023-12-15 11:30:32,526:DEBUG: findfont: score(<Font 'Z003' (Z003-MediumItalic.otf) italic normal 500 normal>) = 11.145
+2023-12-15 11:30:32,526:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/scott/anaconda3/envs/cs234-torch/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
